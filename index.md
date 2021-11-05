@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Jørgen B. Thulstrup
+## Consultant, Architect, Project Manager, Developer
 
 You can use the [editor on GitHub](https://github.com/jthulstrup/jthulstrup.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
