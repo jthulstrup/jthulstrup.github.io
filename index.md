@@ -1,4 +1,6 @@
 ## Jørgen B. Thulstrup
-### Consultant, Architect, Project Manager, Developer
-#### Employee in [IBM](https://www.ibm.com/dk-da/)
-#### View my [CV](Jørgen%20B%20Thulstrup%20IBM%20Consulting%20CV%20-%20English%20short.pdf)
+### Consultant, Architect, Project Manager, Developer @ [IBM](https://www.ibm.com/dk-da/)
+Private: [jorgen@thulstrup.tk](mailto:/jorgen@thulstrup.tk)  
+Work: [thulstrup@dk.ibm.com](mailto:/thulstrup@dk.ibm.com)  
+[Curriculum Vitae (CV)](Jørgen%20B%20Thulstrup%20IBM%20Consulting%20CV%20-%20English%20short.pdf)  
+[LinkedIn](https://www.linkedin.com/in/jthulstrup/)  
